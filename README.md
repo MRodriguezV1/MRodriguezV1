@@ -3,8 +3,10 @@
 ![Descripcion](./Imagenes/img-1.png)
 
 Mi nombre es Michael Rodriguez, y este es mi perfil de Github, donde pueden ver algunos de mis proyectos
-![Descripcion](./Imagenes/img-5.png); ![Descripcion](./Imagenes/img-8.png)
-Espero que vean de lo que soy capaz de ha¿cer en esta pagina
+![Descripcion](./Imagenes/img-5.png)
+
+Espero que vean de lo que soy capaz de hacer en el campo de la programacion
+![Descripcion](./Imagenes/img-8.png)
 <!--
 **MRodriguezV1/MRodriguezV1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
