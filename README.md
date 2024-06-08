@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-![Descripcion](./Imagenes/img-1.png)
-![Descripcion](./Imagenes/img-5.png)
-![Descripcion](./Imagenes/img-8.png)
+![Descripcion](./Imagenes/img-1.png) ; ![Descripcion](./Imagenes/img-5.png); ![Descripcion](./Imagenes/img-8.png)
 
 Check out some of the things that I've made in this page.
 <!--
