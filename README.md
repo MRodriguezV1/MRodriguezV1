@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![Descripcion](./Imagenes/img-1.png)
+![Descripcion](./Imagenes/img-5.png)
+![Descripcion](./Imagenes/img-8.png)
+
+Check out some of the things that I've made in this page.
 <!--
 **MRodriguezV1/MRodriguezV1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
