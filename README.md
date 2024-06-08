@@ -1,8 +1,10 @@
-## Hi there 👋
+## Saludos a todos 👋
 
-![Descripcion](./Imagenes/img-1.png) ; ![Descripcion](./Imagenes/img-5.png); ![Descripcion](./Imagenes/img-8.png)
+![Descripcion](./Imagenes/img-1.png)
 
-Check out some of the things that I've made in this page.
+Mi nombre es Michael Rodriguez, y este es mi perfil de Github, donde pueden ver algunos de mis proyectos
+![Descripcion](./Imagenes/img-5.png); ![Descripcion](./Imagenes/img-8.png)
+Espero que vean de lo que soy capaz de ha¿cer en esta pagina
 <!--
 **MRodriguezV1/MRodriguezV1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
